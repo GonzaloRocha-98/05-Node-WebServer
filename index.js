@@ -18,4 +18,6 @@ app.get('/usuarios', function (req, res) {
 
 
 /* A travez de un archivo de configuracion de propiedades de ambientes vamos a pasar el puerto por ahi y 
-  ya lo dejmaos despleguado en un hsting en una nube, y lo dejamos en una repo y avanzamos full con rest*/
+  ya lo dejmaos despleguado en un hsting en una nube, y lo dejamos en una repo y avanzamos full con rest
+  instalamos la dependencia dotenv
+  */
